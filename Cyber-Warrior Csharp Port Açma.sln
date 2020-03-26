@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyber-Warrior Csharp Port Açma", "Cyber-Warrior Csharp Port Açma\Cyber-Warrior Csharp Port Açma.csproj", "{0D719A98-1074-4943-9B88-B11491D1B808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D719A98-1074-4943-9B88-B11491D1B808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D719A98-1074-4943-9B88-B11491D1B808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D719A98-1074-4943-9B88-B11491D1B808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D719A98-1074-4943-9B88-B11491D1B808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3649C9E-0286-483F-935D-ECC95739E8D4}
+	EndGlobalSection
+EndGlobal
